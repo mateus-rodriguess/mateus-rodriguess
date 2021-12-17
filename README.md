@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mateus Rodrigues
 
 <!--
 **mateus-rodriguess/mateus-rodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateus-rodriguess/)](https://github.com/mateus-rodriguess/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rodriguess/)](https://www.linkedin.com/in/mateus-rodriguess/)
+
+### Ola
+Sou desenvolvedor Full Stack Python e atuando em aplicações com Django, Flask, API RESTful, projetos de web scraping com Beautiful soup e Selenium.
+
+**IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal
+>:octocat: [mateus-rodriguess.github.io/Portfolio/](https://mateus-rodriguess.github.io/Portfolio/) 
