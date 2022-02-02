@@ -4,11 +4,12 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 
-### Ola
+### Ola!!
 Sou desenvolvedor Full Stack Python e atuando em aplicações com Django, Flask, API RESTful, projetos de web scraping com Beautiful soup e Selenium.
 
 **IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal
 >:octocat: [mateus-rodriguess.github.io/Portfolio/](https://mateus-rodriguess.github.io/Portfolio/) 
+
 <hr>
 <h3 align="center">Back-end</h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
