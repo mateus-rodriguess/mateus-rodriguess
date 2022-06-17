@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 
 ### Ola!!
-Sou desenvolvedor Python.
+Sou desenvolvedor Python | Node.js.
 
 **IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal
 >:octocat: [mateus-rodriguess.github.io/Portfolio/](https://mateus-rodriguess.github.io/Portfolio/) 
