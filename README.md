@@ -5,6 +5,7 @@
 
 ### Ola!!
 Sou desenvolvedor Python | Node.js BackEnd
+Graduando em sistemas de informação pela UniDoctum e atuando DevOps developer.
 
 **IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal
 >:octocat: [mateus-rodriguess.github.io/Portfolio/](https://mateus-rodriguess.github.io/Portfolio/) 
