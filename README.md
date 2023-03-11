@@ -5,7 +5,7 @@
 
 ### Ola!!
 Sou desenvolvedor Python | Node.js BackEnd
-</p>
+</br>
 Graduando em sistemas de informação pela UniDoctum e atuando DevOps developer.
 
 **IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal
