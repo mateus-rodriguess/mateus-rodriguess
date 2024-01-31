@@ -6,7 +6,7 @@
 ### Ola!!
 Sou desenvolvedor Python | Node.js BackEnd
 </br>
-Profissional com experiência de 1 ano na função de desenvolvedor back end com python e node.js, graduado em sistemas de informação pela UniDoctum (2022), tendo como diferencial trabalho em equipe. Capaz de coordenar as atividades de desenvolvedor com uma postura assertiva, visando o alcance das metas.
+Profissional atuando como desenvolvedor back end com python e node.js, graduado em sistemas de informação pela UniDoctum (2022),  tendo como diferencial trabalho em equipe. Capaz de coordenar as atividades de desenvolvedor com uma postura assertiva, visando o alcance das metas.
 <hr>
 Visitors count<br>
   <img src="https://profile-counter.glitch.me/mateus-rodriguess/count.svg" />
