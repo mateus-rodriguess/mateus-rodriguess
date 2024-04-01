@@ -1,31 +1,35 @@
-### Mateus Rodrigues
+### Hi there, I'm Mateus Rdrigues 👋
+I'm a Python developer | Node.js BackEnd
+<hr>
+
+<h3>About me</h3>
+Professional working as a back end developer with Python and Node.js, graduated in information systems from UniDoctum (2022), with teamwork as a distinguishing feature. Able to coordinate developer activities with an assertive stance, aiming to achieve goals.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 
-### Hi there, I'm Mateus Rdrigues 👋
-I'm a Python developer | Node.js BackEnd
-</br>
-Professional working as a back end developer with Python and Node.js, graduated in information systems from UniDoctum (2022), with teamwork as a distinguishing feature. Able to coordinate developer activities with an assertive stance, aiming to achieve goals.
+<h3> 🛠 &nbsp; Areas of knowledge:</h3>
+
+<h4>Languages:</h4>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<h4>technologies:</h4>
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-darkgreen?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <hr>
-Visitors count<br>
+Visitors count:<br>
   <img src="https://profile-counter.glitch.me/mateus-rodriguess/count.svg" />
-<h4>Back-end:</h4>
-<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978512-7e711048-d72f-437d-91d1-9dfd3367f495.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
-<br>
-<h4>Front-end:</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-</a> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
- <br>
- <h4>Database:</h4>
-   <a href="https://www.mysql.com" rel="nofollow"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="djang" width="50" height="50" style="max-width: 100%;"></a>
-   <a href="https://www.mysql.com" rel="nofollow"> <img src="https://img.icons8.com/color/240/000000/postgreesql.png" alt="djang" width="40" height="40" style="max-width: 100%;"></a>
-<br>
-<h4>Others skills:</h4>
-  <a href="https://djangoproject.com" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="50" height="50" style="max-width: 100%;"></a>
-  <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.photoshop.com/en" rel="nofollow">
-  <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
