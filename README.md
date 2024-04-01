@@ -3,10 +3,10 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 
-### Ola!!
-Sou desenvolvedor Python | Node.js BackEnd
+### Hi there, I'm Mateus Rdrigues 👋
+I'm a Python developer | Node.js BackEnd
 </br>
-Profissional atuando como desenvolvedor back end com python e node.js, graduado em sistemas de informação pela UniDoctum (2022),  tendo como diferencial trabalho em equipe. Capaz de coordenar as atividades de desenvolvedor com uma postura assertiva, visando o alcance das metas.
+Professional working as a back end developer with Python and Node.js, graduated in information systems from UniDoctum (2022), with teamwork as a distinguishing feature. Able to coordinate developer activities with an assertive stance, aiming to achieve goals.
 <hr>
 Visitors count<br>
   <img src="https://profile-counter.glitch.me/mateus-rodriguess/count.svg" />
