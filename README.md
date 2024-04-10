@@ -3,8 +3,8 @@ I'm a Python developer | Node.js BackEnd
 <hr>
 
 <h3>About me</h3>
-Professional working as a back end developer with Python, Node.js e DevOps, graduated in information systems from UniDoctum (2022), 
-with teamwork as a distinguishing feature. Able to coordinate developer activities with an assertive stance, aiming to achieve goals.
+More than 2 years of professional experience in the technology market, working from software development to implementation. 
+With knowledge to work in positions such as: Software Developer, DevOps Engineer, Cloud Engineer. A great admirer of Cloud Computing.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
