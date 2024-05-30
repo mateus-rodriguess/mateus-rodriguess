@@ -1,5 +1,5 @@
 ### Hi there, I'm Mateus Rodrigues 👋
-I'm a Python developer | Node.js BackEnd
+Back End Developer | DevOps | Cloud Engineer
 <hr>
 
 <h3>About me</h3>
