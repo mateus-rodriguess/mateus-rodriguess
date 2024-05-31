@@ -5,9 +5,11 @@ Back End Developer | DevOps | Cloud Engineer
 <h3>About me</h3>
 More than 2 years of professional experience in the technology market, working from software development to implementation. 
 With knowledge to work in positions such as: Software Developer, DevOps Engineer, Cloud Engineer. A great admirer of Cloud Computing.
-
+<p>
+  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/mateus_ssssss) 
 
 <h3> 🛠 &nbsp; Areas of knowledge:</h3>
 
