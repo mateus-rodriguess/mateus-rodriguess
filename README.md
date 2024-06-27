@@ -1,15 +1,18 @@
-### Hi there, I'm Mateus Rodrigues 👋
-Back End Developer | DevOps | Cloud Engineer
+### Hi there, I'm Mateus Rodrigues >///<
+Developer | Back-End | DevOps | Cloud Engineer
 <hr>
 
-<h3>About me</h3>
-More than 2 years of professional experience in the technology market, working from software development to implementation. 
-With knowledge to work in positions such as: Software Developer, DevOps Engineer, Cloud Engineer. A great admirer of Cloud Computing.
+<h3>About me...</h3>
+Experienced professional with expertise in software development and DevOps practices,
+building and implementing robust and scalable software solutions with a focus on Python, Node.js and DevOps practices. 
+A great admirer of Cloud Computing.
 <p>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/mateus_ssssss) 
+
+<hr>
 
 <h3> 🛠 &nbsp; Areas of knowledge:</h3>
 
@@ -27,6 +30,7 @@ With knowledge to work in positions such as: Software Developer, DevOps Engineer
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 [![Pytest](https://img.shields.io/badge/Pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
