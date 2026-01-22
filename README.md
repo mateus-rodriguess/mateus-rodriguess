@@ -3,8 +3,8 @@ Developer | Back-End | DevOps | Cloud Engineer
 <hr>
 
 ## About me...
-Experienced professional with expertise in software development and DevOps practices, building and implementing robust and scalable software solutions with a focus on Python, Node.js and DevOps practices.
-
+Back-End Developer with solid experience in building scalable and highly available systems. Specialist in Python and Node.js/TypeScript ecosystems, with a strong focus on DevOps culture (CI/CD, IaC, and Cloud). 
+Proven track record in technical team leadership, API performance optimization, and integration of complex data flows. Focused on delivering solutions that align technical excellence with business objectives.
 <hr>  
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
