@@ -5,23 +5,23 @@ Back-End Developer | Python • TypeScript • Node.js | Microservices Architect
 ## About me...
 🚀 Back-End Developer, focused on scalable architectures, high availability, and mission-critical systems.
 
-💡 Technical Expertise
-• Python (FastAPI, Django) and Node.js/TypeScript (NestJS, Express)
-• Microservices architectures and high-performance APIs
-• Containers and orchestration: Docker and Kubernetes
-• Relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB
-• Version control and workflow: Git (GitHub, GitLab) and GitFlow
-• Automated testing: Jest and Pytest
-• Cloud infrastructure (AWS and GCP) with a focus on reliability, performance, and cost efficiency
-• DevOps culture: CI/CD and Infrastructure as Code (Terraform and Ansible)
-• Data pipeline orchestration with Apache Airflow
+#### 💡 Technical Expertise
+  - Python (FastAPI, Django) and Node.js/TypeScript (NestJS, Express)
+  - Microservices architectures and high-performance APIs
+  - Containers and orchestration: Docker and Kubernetes
+  - Relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB
+  - Version control and workflow: Git (GitHub, GitLab) and GitFlow
+  - Automated testing: Jest and Pytest
+  - Cloud infrastructure (AWS and GCP) with a focus on reliability, performance, and cost efficiency
+  - DevOps culture: CI/CD and Infrastructure as Code (Terraform and Ansible)
+  - Data pipeline orchestration with Apache Airflow
 
-🎯 Experience and Results
-• Technical leadership applying Clean Architecture and engineering best practices
-• Continuous improvement of code quality, test coverage, and system stability
-• Integration of distributed systems, including WebSockets and payment gateways
+#### 🎯 Experience and Results
+  - Technical leadership applying Clean Architecture and engineering best practices
+  - Continuous improvement of code quality, test coverage, and system stability
+  - Integration of distributed systems, including WebSockets and payment gateways
 
-🔧 Core Stack
+#### 🔧 Core Stack
 Python • TypeScript • Node.js • FastAPI • NestJS • Express • PostgreSQL • Docker
 <hr>  
 
@@ -30,6 +30,8 @@ Python • TypeScript • Node.js • FastAPI • NestJS • Express • Postgre
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/mateus_ssssss) 
 
 <hr>
+
+---
 
 <h3> 🛠 &nbsp; Areas of knowledge:</h3>
 
