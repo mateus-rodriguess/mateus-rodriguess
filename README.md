@@ -1,10 +1,28 @@
 ## **Hi there, I'm Mateus Rodrigues** >///<
-Developer Python | TypeScript | Node.js | Back-End
+Back-End Developer | Python • TypeScript • Node.js | Microservices Architecture
 <hr>
 
 ## About me...
-Back-End Developer with solid experience in building scalable and highly available systems. Specialist in Python and Node.js/TypeScript ecosystems, with a strong focus on DevOps culture (CI/CD, IaC, and Cloud). 
-Proven track record in technical team leadership, API performance optimization, and integration of complex data flows. Focused on delivering solutions that align technical excellence with business objectives.
+🚀 Back-End Developer, focused on scalable architectures, high availability, and mission-critical systems.
+
+💡 Technical Expertise
+• Python (FastAPI, Django) and Node.js/TypeScript (NestJS, Express)
+• Microservices architectures and high-performance APIs
+• Containers and orchestration: Docker and Kubernetes
+• Relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB
+• Version control and workflow: Git (GitHub, GitLab) and GitFlow
+• Automated testing: Jest and Pytest
+• Cloud infrastructure (AWS and GCP) with a focus on reliability, performance, and cost efficiency
+• DevOps culture: CI/CD and Infrastructure as Code (Terraform and Ansible)
+• Data pipeline orchestration with Apache Airflow
+
+🎯 Experience and Results
+• Technical leadership applying Clean Architecture and engineering best practices
+• Continuous improvement of code quality, test coverage, and system stability
+• Integration of distributed systems, including WebSockets and payment gateways
+
+🔧 Core Stack
+Python • TypeScript • Node.js • FastAPI • NestJS • Express • PostgreSQL • Docker
 <hr>  
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
