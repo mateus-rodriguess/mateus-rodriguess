@@ -21,17 +21,12 @@ Back-End Developer | Python • TypeScript • Node.js | Microservices Architect
   - Continuous improvement of code quality, test coverage, and system stability
   - Integration of distributed systems, including WebSockets and payment gateways
 
-#### 🔧 Core Stack
-Python • TypeScript • Node.js • FastAPI • NestJS • Express • PostgreSQL • Docker
-<hr>  
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.rodrigues.sistema@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/mateus_ssssss) 
 
-<hr>
-
----
+<hr>  
 
 <h3> 🛠 &nbsp; Areas of knowledge:</h3>
 
