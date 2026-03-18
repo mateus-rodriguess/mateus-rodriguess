@@ -3,23 +3,13 @@ Back-End Developer | Python • TypeScript • Node.js | Microservices Architect
 <hr>
 
 ## About me...
-🚀 Back-End Developer, focused on scalable architectures, high availability, and mission-critical systems.
+Back-End Developer experienced in building scalable APIs and distributed systems using Python, Node.js, and TypeScript. 
+Strong background in microservices architecture, cloud computing, and modern DevOps practices, including infrastructure automation and deployment pipelines.
 
-#### 💡 Technical Expertise
-  - Python (FastAPI, Django) and Node.js/TypeScript (NestJS, Express)
-  - Microservices architectures and high-performance APIs
-  - Containers and orchestration: Docker and Kubernetes
-  - Relational and NoSQL databases: MySQL, PostgreSQL, and MongoDB
-  - Version control and workflow: Git (GitHub, GitLab) and GitFlow
-  - Automated testing: Jest and Pytest
-  - Cloud infrastructure (AWS and GCP) with a focus on reliability, performance, and cost efficiency
-  - DevOps culture: CI/CD and Infrastructure as Code (Terraform and Ansible)
-  - Data pipeline orchestration with Apache Airflow
+Hands-on experience developing RESTful APIs with FastAPI, Django, and NestJS, integrating with both relational and NoSQL databases, as well as designing data pipelines and CI/CD workflows. 
+Practical experience with containerization and orchestration using Docker and Kubernetes, along with infrastructure provisioning using Terraform in AWS and GCP environments.
 
-#### 🎯 Experience and Results
-  - Technical leadership applying Clean Architecture and engineering best practices
-  - Continuous improvement of code quality, test coverage, and system stability
-  - Integration of distributed systems, including WebSockets and payment gateways
+Solid understanding of software engineering best practices, including Clean Architecture, automated testing, and performance-driven development focused on scalability and resilience.
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rodriguess/)
